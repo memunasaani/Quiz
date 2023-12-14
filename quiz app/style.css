@@ -5,10 +5,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background: #001e4d;
+    background: url(image/WhatsApp\ Image\ 2023-12-14\ at\ 1.08.35\ PM.jpeg) center center fixed;
+    background-size: cover;
 }
 .app{
-    background: #fff;
+    background:rgba(255, 255, 255, 0.8);
     width: 90%;
     max-width: 600px;
     border-radius: 10px;
